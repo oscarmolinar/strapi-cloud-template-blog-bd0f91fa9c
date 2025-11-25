@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_shared_tests",
+  "info": {
+    "displayName": "test",
+    "icon": "cloud"
+  },
+  "options": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

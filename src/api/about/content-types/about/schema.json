@@ -15,17 +15,15 @@
     "title": {
       "type": "string"
     },
+    "description": {
+      "type": "text"
+    },
     "blocks": {
       "type": "dynamiczone",
       "components": [
         "shared.media",
-        "shared.quote",
-        "shared.rich-text",
         "shared.slider"
       ]
-    },
-    "description": {
-      "type": "text"
     }
   }
 }
